@@ -1,0 +1,28 @@
+.searchInput-button-wrapper {
+	display: flex;
+	justify-content: 'center';
+	align-items: center;
+	padding: 0;
+
+	.searchInput-col {
+		margin-right: 0.5em;
+	}
+	// Hide a double clear button icon that the package has provided
+	.rbt-close-content {
+		display: none;
+	}
+}
+
+.container-result {
+   
+	padding: 0;
+    padding: 0;
+    display: grid;
+    margin: 40px 0;
+    align-content: stretch;
+
+    .spinner{
+        display: flex;
+        justify-content: center;
+    }
+}

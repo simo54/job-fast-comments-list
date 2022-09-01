@@ -1,0 +1,1 @@
+export const COMMENTS_BASE_URL = 'https://jsonplaceholder.typicode.com/comments';
