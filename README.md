@@ -22,4 +22,4 @@ Tengo a precisare che il mio desiderio era quello di terminare il task nel tempo
 
 ### Motivi
 
-    Considerando il tempo a disposizione, ho cercato una libreria incentrata sulla core feature richiesta (typeahead) in modo da massimizzare i tempi con le altre attivita' del progetto. Personalmente non sono un fan di bootstrap e del loro system design ma lo ritengo uno strumento valido quando si tratta di show-test, inoltre ho utilizzato anche react-bootstrap per avere dei componenti base gia' pronti che non richiedessero una "massiccia" dose di customizzazione.
+Considerando il tempo a disposizione, ho cercato una libreria incentrata sulla core feature richiesta (typeahead) in modo da massimizzare i tempi con le altre attivita' del progetto. Personalmente non sono un fan di bootstrap e del loro system design ma lo ritengo uno strumento valido quando si tratta di show-test, inoltre ho utilizzato anche react-bootstrap per avere dei componenti base gia' pronti che non richiedessero una "massiccia" dose di customizzazione.
